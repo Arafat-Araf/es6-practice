@@ -1,0 +1,1 @@
+// https://atom.io/packages/es6-javascript
